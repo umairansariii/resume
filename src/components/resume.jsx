@@ -5,7 +5,7 @@ export default function Resume() {
     return (
         <div className="resume">
             <Education/>
-            <CourseWork/>
+            <CourseWork type="developer"/>
         </div>
     )
 }
